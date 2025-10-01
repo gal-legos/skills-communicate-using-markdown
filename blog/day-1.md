@@ -4,6 +4,10 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage. 
 
+![Cloudy Morning](https://octodex.github.com/images/cloud.jpg)
+
+
+
 ## Review
 1. Step 1
 1. Step 2
